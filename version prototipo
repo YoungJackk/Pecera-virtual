@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="CSS/estilos.css">
+    <title>OCEANO VIVO</title>
+</head>
+
+<body>
+
+    <header>
+      <div class="header">
+          <h2>Pecera Virtual</h2> 
+          <div class="img">
+          <img src="CSS/IMG.HEADER.jpg" alt="IMGDIV" width="400px">
+        </div>
+      </div>
+    </header>
+
+    <div class="container1">
+      <div class="img1">
+        <img src="CSS/img1.jpg" alt="img1" width="200px" height="150px">
+      </div>
+      <div class="text1">
+        <p>Su color naranja brillante y sus tres características rayas blancas hacen del pez payaso o anémona uno de los más fáciles de distinguir entre los que habitan los arrecifes.
+           Alcanzan unos 11 centímetros de longitud y reciben este nombre por las multicolores anémonas marinas en las que tienen su hogar.</p>
+      </div>
+    </div>
+
+
+    
+    <div class="container2">
+      <div class="text2">
+          <p>Los cirujanos azules pueden parecer relativamente inofensivos, pero, frente al peligro, pueden mostrar un par de espinas venenosas afiladas en cada una de sus colas.
+             Luego, los peces mueven sus cuerpos de lado a lado,amenazando con acuchillar a sus depredadores con sus aguijones tóxicos.</p>
+        </div>
+        <div class="img2">
+        <img src="CSS/img2.jpg" alt="img2" width="250px" height="200px">
+      </div>
+    </div>
+
+
+    <div class="container3">
+      <div class="img3">
+        <img src="CSS/img3.jpg" alt="img3" width="250px" height="200px">
+      </div>
+      <div class="text3">
+        <p>Las carpas Koi son peces de agua dulce de la especie Cyprinus carpio.
+           Estos animales son omnívoros con tendencia herbívora y viven en cardúmenes con los que se desplazan de sus zonas de descanso a los lugares en los que buscan alimento. Además,
+           las carpas Koi son muy conocidas por tener un carácter pacífico y sociable.</p>
+      </div>
+    </div>
+
+
+     <footer class="footer">
+        Desafio Latam. Desafio CSS. Carlos Tucca H.
+     </footer>
+     
+</body>
+</html>
